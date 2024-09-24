@@ -4,6 +4,8 @@
 
 **Можно устанавливать в папку с кириллицей и с пробелами в пути!!!**
 
+**Настроено для NVIDIA карт!!!**
+
 > Installing "ComfyUI & Manager" via the "comfy-cli" interface
 
 >  通过“comfy-cli”界面安装“ComfyUI & Manager”
