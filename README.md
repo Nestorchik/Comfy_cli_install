@@ -4,7 +4,10 @@
 
 >  通过“comfy-cli”界面安装“ComfyUI & Manager”
 
-Для установки ComfyUI с помощью интерфейса "comfy_cli" требуется установленный на компьютере пользователя Python (с 3.10 по 3.12), и GIT "в PATH".
+**Для установки ComfyUI с помощью интерфейса "comfy_cli" требуется:**
+
+- установленный на компьютере пользователя Python (с 3.10 по 3.12)
+- GIT "в PATH"
 
 > To install ComfyUI using the "comfy_cli" interface, you need Python (from 3.10 to 3.12) installed on the user's computer, and GIT "in the PATH".
 
