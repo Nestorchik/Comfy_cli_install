@@ -22,6 +22,13 @@
 > - Run the file **"install_comfy_cli.bat"**, then everything will be installed automatically.
 > - Just in case, keep an eye on the installation log to be aware if something went wrong.
 
+> - 下载文件**“install_comfy_cli.bat”**，将其放置在新文件夹中。
+> - 在其中编辑行号**3**，在其中写入“**python.exe**”的完整路径。
+> - 如果需要自动安装“safetensors”模型文件，请取消注释行**24**、**25**和**26**（下载需要很长时间！可能会损坏！）。
+> - 运行文件**“install_comfy_cli.bat”**，然后所有内容都会自动安装。
+> - 以防万一，请留意安装日志以了解是否出现问题。
+
+Все вопросы [в теме на телеграм](https://t.me/stable_cascade_rus/14)
 
 
 
