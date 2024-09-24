@@ -1,8 +1,7 @@
 ### Установка "ComfyUI & Manager" через интерфейс "comfy-cli"
 
 Пример bat-файла, устанавливающего "ComfyUI + Manager" через "comfy-cli".
-
-> **Можно устанавливать в папку с кириллицей и с пробелами в пути!!!**
+**Можно устанавливать в папку с кириллицей и с пробелами в пути!!!**
 
 > Installing "ComfyUI & Manager" via the "comfy-cli" interface
 
