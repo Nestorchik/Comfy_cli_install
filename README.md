@@ -1,2 +1,2 @@
-## Установка "ComfyUI & Manager" через интерфейс "comfy-cli"
+### Установка "ComfyUI & Manager" через интерфейс "comfy-cli"
 
