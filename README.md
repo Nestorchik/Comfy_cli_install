@@ -36,7 +36,7 @@
 > - 运行文件**“install_comfy_cli.bat”**，然后所有内容都会自动安装。
 > - 以防万一，请留意安装日志以了解是否出现问题。
 
-Command-line interface commands: https://pypi.org/project/comfy-cli
+Help for "comfy-cli" commands: https://pypi.org/project/comfy-cli
 
 Все вопросы [в теме на телеграм](https://t.me/stable_cascade_rus/14)
 
