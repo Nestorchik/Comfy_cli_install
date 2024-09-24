@@ -15,6 +15,7 @@
 - Раскоммемнтируйте строки **24**, **25**, и **26**, если надо автоматически установить файл-модель "safetensors" (долго качаться будет! может оборваться!).
 - Запустите файл **"install_comfy_cli.bat"**, дальше все установится автоматически.
 - На всякий случай следите за логом установки, чтобы быть в курсе, если что-то пошло не так.
+- Все установится автоматически, после чего все само запустится.
 
 > - Download the file **"install_comfy_cli.bat"**, place it in a new folder.
 > - Edit line number **3** in it, where you write the full path to your "**python.exe**".
@@ -30,6 +31,10 @@
 
 Все вопросы [в теме на телеграм](https://t.me/stable_cascade_rus/14)
 
+Удачи!
+https://t.me/stable_cascade_rus/14
+https://t.me/srigert
+https://dzen.ru/nstor
 
 
 
