@@ -1,3 +1,4 @@
+### Пример bat-файла, устанавливающего "ComfyUI + Manager" через "comfy-cli".
 ### Установка "ComfyUI & Manager" через интерфейс "comfy-cli"
 
 > Installing "ComfyUI & Manager" via the "comfy-cli" interface
