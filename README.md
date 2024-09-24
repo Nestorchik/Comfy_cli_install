@@ -36,8 +36,11 @@
 Все вопросы [в теме на телеграм](https://t.me/stable_cascade_rus/14)
 
 Удачи!
+
 https://t.me/stable_cascade_rus/14
+
 https://t.me/srigert
+
 https://dzen.ru/nstor
 
 
