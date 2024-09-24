@@ -1,5 +1,5 @@
 <p aling="center"><img src="img\comfy_cli.png"></p>
-### Установка "ComfyUI & Manager" через интерфейс "comfy-cli"
+### Установка "ComfyUI & Manager" через интерфейс "comfy-cli"###
 
 Пример bat-файла, устанавливающего "ComfyUI + Manager" через "comfy-cli".
 
