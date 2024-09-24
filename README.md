@@ -1,2 +1,2 @@
-# Comfy_cli_install
-Install ComfyUI &amp; Manager via comfy-cli
+# Установка "ComfyUI & Manager" через интерфейс "comfy-cli"
+
